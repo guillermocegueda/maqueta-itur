@@ -1,0 +1,17 @@
+.leaflet-container {
+  height: 400px;
+}
+
+#menu {
+  max-height: 15vh;
+  margin-bottom: 2rem;
+}
+
+#filtros {
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+}
+label {
+  margin-right: 0.5rem;
+}
