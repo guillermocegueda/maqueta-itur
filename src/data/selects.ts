@@ -1,7 +1,8 @@
 export const estados = {
-    for: 'estado',
-    name: 'estado',
+    for: 'Estado',
+    name: 'Estado',
     values: [
+      { value: "33", text: 'Nacional' },
       { value: "01", text: 'Aguascalientes' },
       { value: "02", text: 'Baja California' },
       { value: "03", text: 'Baja California Sur' },
@@ -38,8 +39,8 @@ export const estados = {
   }
 
 export const proyectos = {
-    for: 'proyecto',
-    name: 'proyecto',
+    for: 'Proyecto',
+    name: 'Proyecto',
     values: [
       {value: 'itur', text: 'Itur'},
       {value: 'degurba', text: 'Degurba'},

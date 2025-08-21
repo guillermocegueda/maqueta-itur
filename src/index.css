@@ -15,4 +15,14 @@
 label {
   margin-right: 0.5rem;
   font-family: sans-serif;
+  font-weight: bold;
+}
+select{
+  height: 1.7rem;
+  border: 1px solid #999;
+  border-radius: 7px;
+}
+h1 {
+  font-family: sans-serif;
+  text-align: center;
 }
