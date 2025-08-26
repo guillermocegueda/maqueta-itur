@@ -10,12 +10,15 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@types/axios": "^0.9.36",
+    "@types/react-leaflet": "^2.8.3",
+    "axios": "^1.11.0",
     "leaflet": "^1.9.4",
     "proj4": "^2.19.10",
     "proj4leaflet": "^1.0.2",
     "react": "^19.0.0-rc.1",
     "react-dom": "^19.0.0-rc.1",
-    "react-leaflet": "^5.0.0-rc.2"
+    "react-leaflet": "^5.0.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.33.0",

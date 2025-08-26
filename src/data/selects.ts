@@ -1,6 +1,6 @@
 export const estados = {
     for: 'Estado',
-    name: 'Estado',
+    name: 'estado',
     values: [
       { value: "33", text: 'Nacional' },
       { value: "01", text: 'Aguascalientes' },
